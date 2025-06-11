@@ -1,10 +1,10 @@
 ## Hello there, nyu is here👋🐶
+**I love coding.** 
 
-![Valentino banyu](img/header1.jpg)
 
 <!-- 
 
-- 🌱 I’m currently learning about **fullstack developer**
+
 
 
 ##### Skills:
