@@ -1,6 +1,7 @@
 ## Hello. I'm banyu👌
 
-__Software Developer__ who's diving deep into __AI/ML__, currently exploring __Computer Vision & Reinforcement Learning.__
+__Software Developer__ diving deep into __AI/ML__, currently exploring __Computer Vision__ & __Reinforcement Learning__, with a sprinkle of __Cybersecurity__, __Networking__, and __Ethical Hacking__. Honestly I don't know, I just love everything about IT 🙂. But at the end of the day, __Software Development__ is still my home base 😀
+
 
  
 
