@@ -13,6 +13,17 @@
   <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
   <circle cx="1040" cy="150" r="110" fill="none" stroke="#0B1220" stroke-opacity="0.35" stroke-width="2"/>
   <circle cx="1040" cy="150" r="70" fill="none" stroke="#0B1220" stroke-opacity="0.35" stroke-width="2"/>
+  <clipPath id="round"><rect width="1200" height="300" rx="16"/></clipPath>
+  <g clip-path="url(#round)">
+    <g transform="translate(0 220)" fill="#22D3EE">
+      <path opacity="0.18" d="M0 40 Q300 0 600 40 T1200 40 T1800 40 T2400 40 L2400 100 L0 100 Z">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="14s" repeatCount="indefinite"/>
+      </path>
+      <path opacity="0.30" d="M0 55 Q300 95 600 55 T1200 55 T1800 55 T2400 55 L2400 100 L0 100 Z">
+        <animateTransform attributeName="transform" type="translate" from="-1200 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
   <text x="80" y="160" fill="#FFFFFF" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="104" font-weight="700">Nyu<tspan fill="#22D3EE">.</tspan></text>
   <text x="84" y="215" fill="#22D3EE" font-family="'Courier New', Consolas, monospace" font-size="28" letter-spacing="2">Freelance Web &amp; App Developer</text>
 </svg>
