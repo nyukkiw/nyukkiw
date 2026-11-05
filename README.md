@@ -1,38 +1,115 @@
-## Hello. I'm banyu👌
+<div align="center">
 
-__Software Developer__ diving deep into __AI/ML__, currently exploring __Computer Vision__ & __Reinforcement Learning__, with a sprinkle of __Cybersecurity__, __Networking__, and __Ethical Hacking__. Honestly I don't know, I just love everything about IT 🙂. But at the end of the day, __Software Development__ is still my home base 😀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:22D3EE&height=170&section=header&text=Nyu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Web%20%26%20App%20Developer&descSize=18&descAlignY=60" width="100%" alt="Nyu - Freelance Web & App Developer" />
 
-![](https://komarev.com/ghpvc/?username=nyukkiw&color=fc7695&label=Visitor&style=for-the-badge)
+<a href="https://github.com/nyukkiw">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=From+landing+pages+to+monitoring+systems.;Web+apps+%26+dashboards;Android+apps+with+Kotlin;Next.js+%7C+Laravel+%7C+Kotlin" alt="Typing animation" />
+</a>
 
+<br/><br/>
 
+<a href="https://portfolio-website-trfupfoq.edgeone.dev">
+  <img src="https://img.shields.io/badge/Visit%20my%20portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1220&labelColor=0B1220" alt="Visit my portfolio" />
+</a>
+<a href="mailto:valentinobanyu0@gmail.com?subject=Project%20inquiry">
+  <img src="https://img.shields.io/badge/Hire%20me%20%2F%20Contact-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0B1220&color=22D3EE" alt="Hire me / Contact" />
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vlnbanyu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentino-banyu-756752311/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valentinobanyu0@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
-# 🤖 AI that I use when working:
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white" />
+## 👋 About
 
+Hi, I'm **Nyu** (Banyu), a freelance web & app developer.
+I build clean, fast websites and apps for individuals, small businesses, and clinics.
+My portfolio is available in **Indonesian and English**, with dark/light mode.
+Have an idea or a problem to solve? [Let's talk](mailto:valentinobanyu0@gmail.com).
 
-<!-- # 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=nyukkiw&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
+## 🛠️ What I can build for you
 
+| | |
+|---|---|
+| **Landing pages & company profile websites** | Clear, fast pages that present your business well |
+| **Web apps & dashboards** | Custom tools to manage your data and daily work |
+| **Monitoring systems** | Dashboards to keep track of things that matter |
+| **Mobile apps (Android)** | Native Android apps built with Kotlin |
 
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=nyukkiw&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyukkiw&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+## ⚡ Tech stack
 
-<!-- ## 🏆 GitHub Trophies -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=nyukkiw&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+<div align="center">
 
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nyukkiw&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+**Frontend**<br/>
+![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=22D3EE)
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=22D3EE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=22D3EE)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
+![HTML](https://img.shields.io/badge/HTML-0B1220?style=for-the-badge&logo=html5&logoColor=22D3EE)
+![CSS](https://img.shields.io/badge/CSS-0B1220?style=for-the-badge&logo=css3&logoColor=22D3EE)
 
-<!-- ---
-[![](https://visitcount.itsvg.in/api?id=nyukkiw&icon=0&color=0)](https://visitcount.itsvg.in) -->
+**Backend**<br/>
+![PHP](https://img.shields.io/badge/PHP-0B1220?style=for-the-badge&logo=php&logoColor=22D3EE)
+![Laravel](https://img.shields.io/badge/Laravel-0B1220?style=for-the-badge&logo=laravel&logoColor=22D3EE)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=22D3EE)
+![Express](https://img.shields.io/badge/Express-0B1220?style=for-the-badge&logo=express&logoColor=22D3EE)
+![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=22D3EE)
+![MariaDB](https://img.shields.io/badge/MariaDB-0B1220?style=for-the-badge&logo=mariadb&logoColor=22D3EE)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>Also building offline-first apps</sub>
+
+**Mobile**<br/>
+![Kotlin](https://img.shields.io/badge/Kotlin-0B1220?style=for-the-badge&logo=kotlin&logoColor=22D3EE)
+
+**Design**<br/>
+![Figma](https://img.shields.io/badge/Figma-0B1220?style=for-the-badge&logo=figma&logoColor=22D3EE)
+
+**Also**<br/>
+![Java](https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=22D3EE)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1220?style=for-the-badge&logo=bootstrap&logoColor=22D3EE)
+![Canva](https://img.shields.io/badge/Canva-0B1220?style=for-the-badge&logo=canva&logoColor=22D3EE)
+
+**AI tools I use while working**<br/>
+![Claude](https://img.shields.io/badge/Claude-0B1220?style=for-the-badge&logo=claude&logoColor=22D3EE)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0B1220?style=for-the-badge&logo=openai&logoColor=22D3EE)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-0B1220?style=for-the-badge&logo=githubcopilot&logoColor=22D3EE)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0B1220?style=for-the-badge&logoColor=22D3EE)
+
+</div>
+
+## 🚀 Featured project
+
+**[My portfolio website](https://portfolio-website-trfupfoq.edgeone.dev)**
+Built with Next.js, TypeScript, and Tailwind CSS. Bilingual (Indonesian / English), accessible, with dark and light mode.
+
+<!-- TODO: add a screenshot, e.g. <img src="img/portfolio.png" width="100%" alt="Portfolio website preview" /> -->
+
+[**View it live →**](https://portfolio-website-trfupfoq.edgeone.dev)
+
+## 🔭 Currently exploring
+
+Computer vision, reinforcement learning, and cybersecurity.
+
+## 📬 Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://portfolio-website-trfupfoq.edgeone.dev)
+[![Email](https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:valentinobanyu0@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=22D3EE)](https://www.instagram.com/appbuilder.nyu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/valentino-banyu-756752311/)
+
+</div>
+
+<details>
+<summary>GitHub stats (optional)</summary>
+<br/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=nyukkiw&background=0B1220&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&hide_border=true" alt="GitHub streak" />
+
+<sub>If the card does not load, it is a third-party service issue; remove this block.</sub>
+
+</div>
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:22D3EE&height=100&section=footer" width="100%" alt="" />
