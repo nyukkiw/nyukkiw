@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:22D3EE&height=170&section=header&text=Nyu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Web%20%26%20App%20Developer&descSize=18&descAlignY=60" width="100%" alt="Nyu - Freelance Web & App Developer" />
+<img src="img/banner.svg" width="100%" alt="Nyu - Freelance Web & App Developer" />
 
-<a href="https://github.com/nyukkiw">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=From+landing+pages+to+monitoring+systems.;Web+apps+%26+dashboards;Android+apps+with+Kotlin;Next.js+%7C+Laravel+%7C+Kotlin" alt="Typing animation" />
-</a>
+<img src="img/typing.svg" alt="From landing pages to monitoring systems." />
 
 <br/><br/>
 
 <a href="https://portfolio-website-trfupfoq.edgeone.dev">
-  <img src="https://img.shields.io/badge/Visit%20my%20portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1220&labelColor=0B1220" alt="Visit my portfolio" />
+  <img src="https://img.shields.io/badge/Visit%20my%20portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0B1220" alt="Visit my portfolio" />
 </a>
 <a href="mailto:valentinobanyu0@gmail.com?subject=Project%20inquiry">
   <img src="https://img.shields.io/badge/Hire%20me%20%2F%20Contact-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0B1220&color=22D3EE" alt="Hire me / Contact" />
@@ -112,4 +110,4 @@ Computer vision, reinforcement learning, and cybersecurity.
 </div>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:22D3EE&height=100&section=footer" width="100%" alt="" />
+<img src="img/footer.svg" width="100%" alt="" />
