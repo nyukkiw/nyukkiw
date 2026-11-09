@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://portfolio-website-trfupfoq.edgeone.dev">
+<a href="https://www.nyulife.site/">
   <img src="https://img.shields.io/badge/Visit%20my%20portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0B1220" alt="Visit my portfolio" />
 </a>
 <a href="mailto:valentinobanyu0@gmail.com?subject=Project%20inquiry">
@@ -76,12 +76,12 @@ Have an idea or a problem to solve? [Let's talk](mailto:valentinobanyu0@gmail.co
 
 ## 🚀 Featured project
 
-**[My portfolio website](https://portfolio-website-trfupfoq.edgeone.dev)**
+**[My portfolio website](https://www.nyulife.site/)**
 Built with Next.js, TypeScript, and Tailwind CSS. Bilingual (Indonesian / English), accessible, with dark and light mode.
 
 <!-- TODO: add a screenshot, e.g. <img src="img/portfolio.png" width="100%" alt="Portfolio website preview" /> -->
 
-[**View it live →**](https://portfolio-website-trfupfoq.edgeone.dev)
+[**View it live →**](https://www.nyulife.site/)
 
 ## 🔭 Currently exploring
 
@@ -91,7 +91,7 @@ Computer vision, reinforcement learning, and cybersecurity.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://portfolio-website-trfupfoq.edgeone.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://www.nyulife.site/)
 [![Email](https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:valentinobanyu0@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=22D3EE)](https://www.instagram.com/appbuilder.nyu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/valentino-banyu-756752311/)
